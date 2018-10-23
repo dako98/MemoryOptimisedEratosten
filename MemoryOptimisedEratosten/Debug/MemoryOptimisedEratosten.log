@@ -1,0 +1,14 @@
+﻿  BitArray.cpp
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\bitarray.cpp(55): warning C4018: '>': signed/unsigned mismatch
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\bitarray.cpp(66): warning C4018: '>': signed/unsigned mismatch
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\bitarray.cpp(107): warning C4552: '-': result of expression not used
+  Source.cpp
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(22): warning C4244: 'argument': conversion from 'ull_int' to 'int', possible loss of data
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(23): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ull_int'
+  d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(23): note: consider using '%lld' in the format string
+  d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(23): note: consider using '%I64d' in the format string
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(30): warning C4244: 'argument': conversion from 'ull_int' to 'int', possible loss of data
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\source.cpp(33): warning C4244: 'argument': conversion from 'ull_int' to 'int', possible loss of data
+  Generating Code...
+d:\programming\sdp\memoryoptimisederatosten\memoryoptimisederatosten\bitarray.cpp(81): warning C4715: 'BitArray::SetBit': not all control paths return a value
+  MemoryOptimisedEratosten.vcxproj -> D:\Programming\SDP\MemoryOptimisedEratosten\Debug\MemoryOptimisedEratosten.exe
